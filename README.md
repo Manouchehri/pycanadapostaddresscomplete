@@ -6,7 +6,7 @@ Long name, but at least it's descriptive!
 
 All content of this project is under the MIT License. Any Canada Post related questions should go directly to them, as I am not affiliated with them in any capacity.
 
-# Usage
+## Usage
 Simply run get_address.py "your address" and it will print out the search results.
 
 ## Requirements
